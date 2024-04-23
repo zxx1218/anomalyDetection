@@ -5,7 +5,7 @@
 
 ## :sparkles: 效果展示！
 
-[video(video-lUdRnvMX-1713865282687)(type-csdn)(url-https://live.csdn.net/v/embed/381608)(image-https://live-file.csdnimg.cn/release/live/file/1713864551052.png?x-oss-process=image/resize,l_300)(title-异常检测Web演示视频)]
+https://blog.csdn.net/qq_45566099/article/details/138010252
 
 
 <hr>

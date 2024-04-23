@@ -18,9 +18,29 @@ https://blog.csdn.net/qq_45566099/article/details/138010252
 - 前后端页面需要Python>=3.6
 
 ## :rocket: 使用方式
-- **giuhub链接：**[Github视频异常检测](https://github.com/zxx1218/anomalyDetection)
 
-- **gitee链接：**[Gitee视频异常检测](https://gitee.com/zxx1218/anomaly-detection)
+- 代码根目录下environment.yml是conda导出的环境，直接执行即可安装环境
+
+使用控制台调用算法：cd到代码根目录，执行
+
+```
+python Test.py --model_dir /exp/ped2/log/ped2_model_1000.pth
+```
+
+参数解释：
+
+```
+--model_dir ---> 训练好的模型存放路径
+```
+
+
+启动gradio实现网页操作：cd到代码根目录下的gradioDemo，然后执行
+
+```
+python gradio_demo.py
+```
+
+启动后访问https://127.0.0.1:9091即可
 
 <hr>
 
